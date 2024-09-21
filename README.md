@@ -1,3 +1,3 @@
 # MEG_EXPLORER
 
-Esplora livelli misteriori cercando di scoprire cosa vi si cela dietro.
+Rivivi le memorie di esploratori del M.E.G. che hanno affrontato livelli di classe pending.
