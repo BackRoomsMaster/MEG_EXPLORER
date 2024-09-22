@@ -9,3 +9,5 @@ Rivivi le memorie di esploratori del M.E.G. o semplici esploratori sprovveduti c
 899 : "Resterai insieme a me?"
 
 REDACTED : " Alcune porte dovrebbero rimanere chiu...."
+
+??? : "Agenti mi ricevete? Aggiornamenti sulla situazione?"
